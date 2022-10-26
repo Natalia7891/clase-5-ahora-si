@@ -1,1 +1,2 @@
 pokemon tipo fuego
+otra línea

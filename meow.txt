@@ -1,1 +1,2 @@
 pokemon tipo físico
+otra línea
