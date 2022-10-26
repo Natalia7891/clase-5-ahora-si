@@ -1,2 +1,3 @@
 pokemon tipo eléctrico
 amigo de Ash
+color amarillo
